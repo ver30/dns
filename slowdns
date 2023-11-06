@@ -1,8 +1,8 @@
-NS='dns.ssh-fr-1.vpnv.cc'
+NS='ely.daddyjo-vpn.online'
 NS1='sg1ray-dns.mainssh.com'
 NS2='dns.xs-2.optnl.com'
-NS3='ns-my2.vpnjantit.com'
-NS4='ns-sg3.slowdns.me'
+NS3='ns-ely.daddyjo-vpn.online'
+NS4='ns-ely.daddyjo-vpn.online'
 NS5='dns.xs-1.optnl.com' 
 
 LOOP_DELAY=5
@@ -62,4 +62,3 @@ case "${@}" in
  ;;
 esac
 exit 0
-sg1ray-dns.mainssh.com
